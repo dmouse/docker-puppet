@@ -1,0 +1,2 @@
+Docker and puppet image
+==============
